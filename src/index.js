@@ -1,1 +1,7 @@
-import './sass/main.scss';
+
+import './js/coutry';
+import './styles.css';
+
+
+
+

@@ -1,0 +1,32 @@
+.form-inline {
+  text-align: center;
+}
+.form_country {
+  display: flex;
+  justify-content: center;
+}
+
+.flag {
+  width: 350px;
+  height: 335px;
+}
+
+.text {
+  font-weight: bold;
+}
+
+.form-control {
+  font-size: 28px;
+  text-align: center;
+  margin: 50px;
+  width: 500px;
+}
+
+.listCountry {
+  font-size: 24px;
+  font-weight: bold;
+  max-width: 500px;
+  text-align: left;
+  margin: 0 auto;
+}
+
